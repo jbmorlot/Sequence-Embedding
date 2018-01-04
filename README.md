@@ -1,2 +1,2 @@
 # Sequence-Embedding
-(on going work)
+(ongoing work)
